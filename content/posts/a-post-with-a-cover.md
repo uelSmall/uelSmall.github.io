@@ -1,16 +1,15 @@
 ---
-title: A post with a cover image
-date: 2019-01-07T00:00:00.000Z
+title: Test post
+date: 2020-05-03T14:16:12.217Z
 published: true
 tags:
-  - Markdown
-  - Cover Image
+  - "Testing "
+  - Blog
 cover_image: /images/uploads/alexandr-podvalny-220262-unsplash.jpg
-description: >-
-  Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
-  Readability, however, is emphasized above all else. A Markdown-formatted
-  document should be publishable as-is, as plain text, without looking like it's
-  been marked up with tags or formatting instructions.
+description: Markdown is intended to be as easy-to-read and easy-to-write as is
+  feasible. Readability, however, is emphasized above all else. A
+  Markdown-formatted document should be publishable as-is, as plain text,
+  without looking like it's been marked up with tags or formatting instructions.
 ---
 
 Readability, however, is emphasized above all else. A Markdown-formatted
