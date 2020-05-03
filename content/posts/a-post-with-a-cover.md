@@ -1,5 +1,5 @@
 ---
-title: Test post
+title: Updated post
 date: 2020-05-03T14:16:12.217Z
 published: true
 tags:
