@@ -24,6 +24,12 @@
     </main>
 
     <footer class="footer">
+        <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
+      <span class="footer__links">Made with ❤️ by <a href="//www.uelsmall.netlify.app"> U'el Small</a></span>
+      
+    </footer>
+<!-- 
+    <footer class="footer">
       <div class="social-media-links">
           <a href="https://dev.to/uelSmall" target="_blank" rel="noopener">Dev</a>
           <a href="https://instagram.com/uelSmall" target="_blank" rel="noopener">Instagram</a>
@@ -36,8 +42,7 @@
         <span class="footer__copyright">Copyright © {{ new Date().getFullYear() }}. </span>
       <span class="footer__links">Made with ❤️ by <a href="//www.uelsmall.netlify.app"> U'el Small</a></span>
       </div>
-    </footer>
-
+    </footer> -->
   </div>
 </template>
 
@@ -87,7 +92,7 @@ export default {
 }
 
 .footer {
-  /*
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -98,7 +103,7 @@ export default {
   > span {
     margin: 0 .35em;
   }
-*/
+
   a {
     color: currentColor;
   }
