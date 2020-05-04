@@ -1,5 +1,5 @@
 {
-  "name": "netlifycms-gridsome",
+  "name": "uel-small-site",
   "private": true,
   "scripts": {
     "build": "gridsome build",
@@ -11,6 +11,7 @@
     "@gridsome/remark-prismjs": "^0.3.0",
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.5.0",
+    "@vue/devtools": "^5.3.3",
     "gridsome": "^0.7.14"
   },
   "devDependencies": {

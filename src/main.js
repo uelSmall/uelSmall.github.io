@@ -1,6 +1,8 @@
+//import vue devtools to view vue components
+import devtools from '@vue/devtools'  
+
 // Import main css
 import '~/assets/style/index.scss'
-
 // Import default layout so we don't need to import it to every page
 import DefaultLayout from '~/layouts/Default.vue'
 
